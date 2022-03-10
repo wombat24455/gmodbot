@@ -1,0 +1,19 @@
+{
+  "name": "gmodbot",
+  "version": "1.0.0",
+  "description": "gmod",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "bot",
+    "gmod"
+  ],
+  "author": "change me",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
